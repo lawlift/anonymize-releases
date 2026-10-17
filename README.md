@@ -14,7 +14,7 @@ The app finds its updates here; installed apps update themselves. The source cod
 
 Office model server (Linux): `install-model-server.sh` and the Compose files are attached to every release.
 
-Product information, terms and privacy: https://www.lawlift.de · Support: support@lawlift.de
+Product information, terms and privacy: https://www.lawlift.de · Support: anonymize@lawlift.com
 
 ---
 
